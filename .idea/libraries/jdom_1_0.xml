@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="jdom-1.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Ejemplos/lib/jdom-1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Ejemplos/lib/napkinlaf-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Ejemplos/lib/napkinlaf-swingset-1.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
